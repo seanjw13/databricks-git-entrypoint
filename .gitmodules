@@ -1,3 +1,0 @@
-[submodule "submodule-example"]
-	path = submodule-example
-	url = git@github.com:seanjw13/tuner-compare.git
